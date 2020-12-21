@@ -1,13 +1,15 @@
 package org.opentutorials.javatutorials.scope;
 
-public class ScopeDemo {
+public class ScopeDemo3 {
 	
 	static void a() {
-		//int i = 0;
+		// String title = "coding everybody";
 	}
-	
+
 	public static void main(String[] args) {
-		
+		a();
+		// System.out.println(title);
+
 	}
 
 }
