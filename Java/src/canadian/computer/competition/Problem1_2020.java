@@ -63,33 +63,6 @@ public class Problem1_2020 {
 		// STEP 8: Print the result
 		System.out.println(max);
 
-//		for (int i = 0; i < speed.length; i++) {
-//			System.out.println("speed[" + i + "] " + speed[i]);
-//		}
-
-//		for (int i = 0; i < timeDiff.length; i++) {
-//			System.out.println("time[" + (i + 1) + "] - time[" + i + "] = Abs " + timeDiff[i]);
-//		}
-//		
-//		for (int i = 0; i < positionDiff.length; i++) {
-//			System.out.println("position[" + (i + 1) + "] - position[" + i + "] = Abs " + positionDiff[i]);
-//		}
-//		
-//		for (int i = 0; i < time.length; i++) {
-//			System.out.println("time[" + i + "] " + time[i]);
-//		}
-//
-//		for (int i = 0; i < position.length; i++) {
-//			System.out.println("position[" + i + "] " + position[i]);
-//		}
-
-//		for (int i = 0; i < timenposition.length; i++) {
-//			for (int j = 0; j < timenposition[0].length; j++) {
-//				System.out.print(timenposition[i][j] + " ");
-//			}
-//			System.out.println();
-//		}
-
 	}
 
 }
