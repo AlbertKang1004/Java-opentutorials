@@ -1,6 +1,6 @@
 package org.opentutorials.javatutorials.packages2;
 
-import org.opentutorials.javatutorials.packages.*;
+import org.opentutorials.javatutorials.packages.A;
 
 public class B {
 
