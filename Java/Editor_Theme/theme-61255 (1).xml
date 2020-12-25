@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="61255" name="Firefox" modified="2020-12-25 17:52:36" author="Albert Kang">
+    <searchResultIndication color="#000000" />
+    <filteredSearchResultIndication color="#000000" />
+    <occurrenceIndication color="#000000" />
+    <writeOccurrenceIndication color="#000000" ></writeOccurrenceIndication>
+    <findScope color="#111111" />
+    <deletionIndication color="#FF2965" />
+    <sourceHoverBackground color="#000000" />
+    <singleLineComment color="#939393" bold="false" italic="false" />
+    <multiLineComment color="#939393" bold="false" italic="false" />
+    <commentTaskTag color="#939393" bold="false" italic="false" />
+    <javadoc color="#939393" bold="false" italic="false" />
+    <javadocLink color="#939393" bold="false" italic="false" />
+    <javadocTag color="#939393" bold="false" italic="false" />
+    <javadocKeyword color="#939393" bold="false" italic="false" />
+    <class color="#5AC1FF" bold="false" italic="false" underline="false" strikethrough="false" />
+    <interface color="#5AC1FF" bold="false" />
+    <method color="#64E165" bold="false" />
+    <methodDeclaration color="#5AC1FF" bold="false" />
+    <bracket color="#D7D7DB" bold="false" />
+    <number color="#6B89FF" />
+    <string color="#6B89FF" bold="false" />
+    <operator color="#D7D7DB" bold="false" />
+    <keyword color="#FF73EE" bold="false" />
+    <annotation color="#FFFFFF" />
+    <staticMethod color="#75BFFF" bold="false" />
+    <localVariable color="#75BFFF" bold="false" />
+    <localVariableDeclaration color="#75BFFF" bold="false" />
+    <field color="#C18CFF" bold="false" />
+    <staticField color="#75BFFF" bold="false" />
+    <staticFinalField color="#75BFFF" />
+    <deprecatedMember color="#FF2965" underline="false" strikethrough="false" />
+    <enum color="#64E165" />
+    <inheritedMethod color="#75BFFF" underline="false" strikethrough="false" />
+    <abstractMethod color="#75BFFF" underline="false" strikethrough="false" />
+    <parameterVariable color="#75BFFF" underline="false" strikethrough="false" />
+    <typeArgument color="#D7D7DB" bold="false" />
+    <typeParameter color="#D7D7DB" bold="false" />
+    <constant color="#6B89FF" bold="false" italic="false" />
+    <background color="#2A2A2E" />
+    <currentLine color="#2A2A2E" />
+    <foreground color="#B1B1B3" />
+    <lineNumber color="#D0D0D0" />
+    <selectionBackground color="#000000" />
+    <selectionForeground color="#D0D0D0" />
+</colorTheme>
