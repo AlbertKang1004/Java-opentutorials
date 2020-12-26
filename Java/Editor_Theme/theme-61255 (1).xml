@@ -22,7 +22,7 @@
     <number color="#6B89FF" />
     <string color="#6B89FF" bold="false" />
     <operator color="#D7D7DB" bold="false" />
-    <keyword color="#FF73EE" bold="false" />
+    <keyword color="#FF73EE" bold="false" ></keyword>
     <annotation color="#FFFFFF" />
     <staticMethod color="#75BFFF" bold="false" />
     <localVariable color="#75BFFF" bold="false" />
@@ -36,7 +36,7 @@
     <abstractMethod color="#75BFFF" underline="false" strikethrough="false" />
     <parameterVariable color="#75BFFF" underline="false" strikethrough="false" />
     <typeArgument color="#D7D7DB" bold="false" />
-    <typeParameter color="#D7D7DB" bold="false" />
+    <typeParameter color="#D7D7DB" bold="false" ></typeParameter>
     <constant color="#6B89FF" bold="false" italic="false" />
     <background color="#2A2A2E" />
     <currentLine color="#2A2A2E" />
