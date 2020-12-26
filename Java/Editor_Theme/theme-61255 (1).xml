@@ -14,7 +14,7 @@
     <javadocLink color="#939393" bold="false" italic="false" />
     <javadocTag color="#939393" bold="false" italic="false" />
     <javadocKeyword color="#939393" bold="false" italic="false" />
-    <class color="#5AC1FF" bold="false" italic="false" underline="false" strikethrough="false" />
+    <class color="#5A83FF" bold="false" italic="false" underline="false" strikethrough="false" />
     <interface color="#5AC1FF" bold="false" />
     <method color="#64E165" bold="false" />
     <methodDeclaration color="#5AC1FF" bold="false" />
