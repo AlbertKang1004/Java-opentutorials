@@ -23,7 +23,7 @@ class Computer implements Comparable<Object> {
 public class CollectionsDemo {
 
 	public static void main(String[] args) {
-		List<Computer> computers = new ArrayList<Computer>();
+		List<Computer> computers = new ArrayList<>();
 		computers.add(new Computer(500, "egoing"));
 		computers.add(new Computer(200, "leezche"));
 		computers.add(new Computer(3233, "graphittie"));
