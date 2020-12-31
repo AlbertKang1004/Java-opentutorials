@@ -1,23 +1,31 @@
 package my.project;
 
+import java.util.Arrays;
+
+class Solution {
+	public static int thirdMax(int[] nums) {
+		int n = 0;
+		Arrays.sort(nums);
+		if (nums.length < 3)
+			return nums[nums.length - 1];
+		for (int i = nums.length - 2; i >= 0; i--) {
+			if (n >= 2) {
+				return nums[i + 1];
+			} else if (nums[i + 1] != nums[i]) {
+				n++;
+			} else {
+			}
+		}
+		return nums[nums.length - 1];
+	}
+}
+
 public class MathExample {
 
 	public static void main(String[] args) {
-		int[] nums = {0, 1, 0, 3, 12, 4};
-		for (int i = 0, j = 0; i + j >= nums.length - 2; i++) {
-			if (nums[i] == 0 && nums[nums.length - 1 - j] != 0) {
-				int temp = nums[i];
-				nums[i] = nums[nums.length - 1 - j];
-				nums[nums.length - 1 - j] = temp;
-				j++;
-			}
-		}
-		
-		
-		
-		for(int e : nums) {
-			System.out.print(e + " ");
-		}
+		int[] array = { 3, 2, 1 };
+		int answer = Solution.thirdMax(array);
+		System.out.println(answer);
 	}
 
 }
